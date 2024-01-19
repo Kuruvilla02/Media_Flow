@@ -36,7 +36,7 @@ def main():
     # Argument parsing #################################################################
     args = get_args()
 
-    cap_device = args.device
+    cap_device = 0
     cap_width = args.width
     cap_height = args.height
 
